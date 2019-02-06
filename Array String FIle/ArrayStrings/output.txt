@@ -1,0 +1,180 @@
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+- Course: CPCS202 - Course: CPCS203 - Course: CPCS204 - Course: CPCS353 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+- Course: CPCS202 - Course: CPCS203 - Course: CPCS204 - Course: CPCS353 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+- Course: CPCS202 - Course: CPCS203 - Course: CPCS204 - Course: CPCS353 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+- Course: CPCS202 - Course: CPCS203 - Course: CPCS204 - Course: CPCS353 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+- Course: CPCS202 - Course: CPCS203 - Course: CPCS204 - Course: CPCS353 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+- Course: CPCS202 - Course: CPCS203 - Course: CPCS204 - Course: CPCS353 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+- Course: CPCS202 - Course: CPCS203 - Course: CPCS204 - Course: CPCS353 
+-------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,102 @@
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@75b84c92 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@6bc7c054 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@232204a1 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 Name: [Ljava.lang.String;@4aa298b7 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_COURSE
+***Course Record For Exam Grading System***
+
+
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_EXAMTYPE
+******Exam Type Record For Exam Grading System***
+
+- Exam Type Exam1 - Exam Type Exam2 - Exam Type FinalExam - Exam Type LabExams - Exam Type Assignments - Exam Type Quiz 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce 
+-------------------------------------------------------------------------------------------------------
+
+COMMAND: ADD_STUDENT_FOR_COURSE
+***Student Record For Exam Grading System***
+
+Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@46f5f779 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@1c2c22f3 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@18e8568 Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce Name: [Ljava.lang.String;@33e5ccce 
+-------------------------------------------------------------------------------------------------------
+
